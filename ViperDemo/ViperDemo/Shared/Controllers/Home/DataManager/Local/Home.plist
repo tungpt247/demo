@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>icon-menu-discover</string>
+			<key>name</key>
+			<string>Discover</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>icon-menu-news</string>
+			<key>name</key>
+			<string>News</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>icon-menu-to-watch</string>
+			<key>name</key>
+			<string>To Watch</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>icon-menu-watched</string>
+			<key>name</key>
+			<string>Watched</string>
+		</dict>
+	</array>
+</array>
+</plist>
